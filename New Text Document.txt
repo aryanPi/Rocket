@@ -1,0 +1,7 @@
+https://d10seqx7f7ksi7.cloudfront.net/games/tk-astronaut/3.17.0/html/commons.js
+https://d10seqx7f7ksi7.cloudfront.net/games/tk-astronaut/3.17.0/html/game.js
+https://d10seqx7f7ksi7.cloudfront.net/games/tk-astronaut/3.17.0/html/game_gui_html.js
+https://d10seqx7f7ksi7.cloudfront.net/games/tk-astronaut/3.17.0/html/preloader.js
+https://d10seqx7f7ksi7.cloudfront.net/games/tk-astronaut/3.17.0/html/require_config.js
+https://d10seqx7f7ksi7.cloudfront.net/games/tk-astronaut/3.17.0/html/app.css
+https://d10seqx7f7ksi7.cloudfront.net/games/tk-astronaut/3.17.0/html/paytableCss.css
